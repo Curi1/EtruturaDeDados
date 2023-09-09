@@ -1,0 +1,3 @@
+C:/Users/mathe/CLionProjects/LeituraArquivoMedias/cmake-build-debug/CMakeFiles/LeituraArquivoMedias.dir
+C:/Users/mathe/CLionProjects/LeituraArquivoMedias/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mathe/CLionProjects/LeituraArquivoMedias/cmake-build-debug/CMakeFiles/rebuild_cache.dir

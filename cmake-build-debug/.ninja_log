@@ -1,0 +1,13 @@
+# ninja log v5
+1	496	7159891553564108	CMakeFiles/LeituraArquivoMedias.dir/main.c.obj	dd92c2135d6f6085
+499	1057	7159891559201453	LeituraArquivoMedias.exe	9a784f619e8cd465
+1	146	7159894755050630	CMakeFiles/LeituraArquivoMedias.dir/main.c.obj	dd92c2135d6f6085
+147	370	7159894757274911	LeituraArquivoMedias.exe	9a784f619e8cd465
+2	135	7159903207654391	CMakeFiles/LeituraArquivoMedias.dir/main.c.obj	dd92c2135d6f6085
+135	319	7159903209460608	LeituraArquivoMedias.exe	9a784f619e8cd465
+2	260	7159906337577584	CMakeFiles/LeituraArquivoMedias.dir/main.c.obj	dd92c2135d6f6085
+260	469	7159906339648100	LeituraArquivoMedias.exe	9a784f619e8cd465
+2	180	7159910041135833	CMakeFiles/LeituraArquivoMedias.dir/main.c.obj	dd92c2135d6f6085
+180	390	7159910043190339	LeituraArquivoMedias.exe	9a784f619e8cd465
+2	94	7159910384657753	CMakeFiles/LeituraArquivoMedias.dir/main.c.obj	dd92c2135d6f6085
+95	211	7159910385864650	LeituraArquivoMedias.exe	9a784f619e8cd465
